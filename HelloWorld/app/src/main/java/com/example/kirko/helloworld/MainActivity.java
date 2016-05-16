@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
     int counter = 0;
     private static final String TAG = "MyActivity";
-    //DecimalFormat
     DecimalFormat df = new DecimalFormat("#0.000");
 
 
